@@ -1,4 +1,4 @@
 # My Profile
 ### Let's Connect :
 
-<a href="https://stackoverflow.com/"><img src="RELATIVE_PATH_TO_IMAGE></img></a>
+<a href="https://twitter.com/lawrencemauku"><img src="Logo-Twitter-icon-transparent-PNG"></img></a>
