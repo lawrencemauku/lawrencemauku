@@ -1,19 +1,22 @@
 <img src="bgimage.png" width="100%"/>
 
-<h1 align="center">LAWRENCE MAUKU</h1>
+<h1 align="center">LAWRENCE MAUKU</h1></h1>
 
 <h3 align="center">Hi, here is a brief info about me 😊;</h3>
 <hr/>
 
-<div align="center">Occupation: <h2>Software Engineer</h2> </h2>
+<div align="center">Occupation: 
+  <h2>Software Engineer</h2> 
+</div>
 
-# I major in ;
   ## Front End:
-   <li>React Js</li>
+<ul>
+  <li>React Js</li>
    <li>Next Js</li>
    <li>Flutter</li>
    <li>React Native</li>
    <li>Kotlin</li>
+</ul>
 
 
   ## BackEnd
