@@ -1,6 +1,6 @@
-<img src="bgimage.png" width="100%"/>
+<img src="bgimage.png" width="100%" border-radius="40px"/>
 
-<h1 align="center">LAWRENCE MAUKU</h1></h1>
+<h1 align="center" >LAWRENCE MAUKU</h1></h1>
 
 <h3 align="center">Hi, here is a brief info about me 😊;</h3>
 <hr/>
