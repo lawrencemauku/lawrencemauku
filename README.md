@@ -25,6 +25,9 @@
    <li>Flutter</li>
    <li>React Native</li>
    <li>Kotlin</li>
+   <li>NGINX</li>
+   <li>Virtual Machines</li>
+   <li>Load Balancers (Setup and management)</li>
    
 
   ## Databases
@@ -32,17 +35,18 @@
    <li>Firebase (Firestore/realtime database)</li>
    <li>Mongo DB</li>
    <li>MySQL</li>
-   <li>Kotlin</li>
    
    
   ## Services
    <li>Docker Containers</li>
-   <li>Kubernettes</li>
-   <li>Graffana</li>
+   <li>Realtime Chat / Communication</li>
+   <li>Two Factor Auth</li>
+   <li>Biometric Auth</li>
    
   
   ## Tools
    <li>Kalabash (UAT Testing)</li>
+   <li>Graffana (Application monitoring)</li>
 
 ### Let's Connect :
 
