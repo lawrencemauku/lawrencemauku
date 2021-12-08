@@ -46,7 +46,12 @@
   
   ## Tools
    <li>Kalabash (UAT Testing)</li>
-   <li>Graffana (Application monitoring)</li>
+   <li>Graffana (Application monitoring)</li
+  
+  #
+  # 
+  
+  [![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosleek)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's Connect :
 
