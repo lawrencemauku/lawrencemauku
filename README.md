@@ -7,6 +7,12 @@
 
 <div align="center">Occupation: 
   <h2>Software Engineer</h2> 
+  
+  #
+  # 
+  
+  [![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosleek&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzosleek&layout=compact)](https://github.com/lorenzosleek)
 </div>
 
   ## Front End:
@@ -48,10 +54,6 @@
    <li>Kalabash (UAT Testing)</li>
    <li>Graffana (Application monitoring)</li
   
-  #
-  # 
-  
-  [![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosleek)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Let's Connect :
 
