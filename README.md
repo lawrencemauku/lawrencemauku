@@ -27,6 +27,8 @@
 
   ## BackEnd
    <li>C#</li>
+   <li>Python</li>
+   <li>Golang</li>
    <li>Node js</li>
    <li>Flutter</li>
    <li>React Native</li>
