@@ -47,7 +47,7 @@
    
   ## Services
    <li>Docker Containers</li>
-   <li>Realtime Chat / Communication</li>
+   <li>Realtime Communication</li>
    <li>Two Factor Auth</li>
    <li>Biometric Auth</li>
    
