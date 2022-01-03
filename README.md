@@ -6,7 +6,7 @@
 <hr/>
 
 <div align="center">Occupation: 
-  <h2>Software Engineer</h2> 
+  <h2>Software Developer</h2> 
   
   #
   # 
