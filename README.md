@@ -11,8 +11,8 @@
   #
   # 
   
-  [![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lorenzosleek&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lorenzosleek&layout=compact)](https://github.com/lorenzosleek)
+  [![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencemauku&count_private=true&show_icons=true)](https://github.com/lawrencemauku/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencemauku&layout=compact)](https://github.com/lawrencemauku)
 </div>
 
   ## Front End:
