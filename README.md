@@ -26,21 +26,19 @@
 
 
   ## BackEnd
-   <li>C#</li>
-   <li>Python</li>
+   <li>ASP.NET C#</li>
+   <li>Python (Flask)</li>
    <li>Golang</li>
    <li>Node js</li>
-   <li>Flutter</li>
-   <li>React Native</li>
-   <li>Kotlin</li>
+   <li>Dart</li>
+   <li>Kotlin Springboot</li>
    <li>NGINX</li>
-   <li>Virtual Machines</li>
-   <li>Load Balancers (Setup and management)</li>
+   <li>Azure Virtual Machines</li>
    
 
   ## Databases
    <li>Microsoft SQL Server Databases</li>
-   <li>Firebase (Firestore/realtime database)</li>
+   <li>Firebase</li>
    <li>Mongo DB</li>
    <li>MySQL</li>
    
@@ -54,7 +52,13 @@
   
   ## Tools
    <li>Kalabash (UAT Testing)</li>
-   <li>Graffana (Application monitoring)</li
+   <li>Graffana (Application monitoring)</li>
+   <li>Sentry (Application monitoring)</li>
+   
+  
+  ## CI /CD
+   <li>Codemagic</li>
+   <li>Jenkins</li>
   
 
 ### Let's Connect :
