@@ -16,7 +16,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=lawrencemauku&theme=light&hide_border=false&include_all_commits=true&count_private=true)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=lawrencemauku&theme=light&hide_border=false)<br/>
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=lawrencemauku&show_icons=true&theme=radical)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryo-ma&layout=compact" />
 
   [![trophy](https://github-profile-trophy.vercel.app/?username=dirambora&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
   
