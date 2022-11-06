@@ -1,4 +1,3 @@
-<img src="bgimage.png" width="100%" border-radius="40px"/>
 
 <h1 align="center" >LAWRENCE MAUKU</h1></h1>
 
@@ -10,9 +9,17 @@
   
   #
   # 
+  <!--
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lawrencemauku&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencemauku&langs_count=5&theme=tokyonight)]()
+-->
+
+![](https://github-readme-stats.vercel.app/api?username=lawrencemauku&theme=light&hide_border=false&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=lawrencemauku&theme=light&hide_border=false)<br/>
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=lawrencemauku&show_icons=true&theme=radical)
+
+  [![trophy](https://github-profile-trophy.vercel.app/?username=dirambora&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
   
-  [![Lawrence's GitHub stats](https://github-readme-stats.vercel.app/api?username=lawrencemauku&count_private=true&show_icons=true)](https://github.com/lawrencemauku/github-readme-stats)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencemauku)](https://github.com/lawrencemauku/github-readme-stats)
 </div>
 
   ## Front End:
@@ -68,3 +75,5 @@
 
 ### Linkedin
 [<img width="40px" src="linkedin.png" />](https://www.linkedin.com/in/lawrence-mauku-a34a0bb4/)
+
+<!-- <img src="https://profile-counter.glitch.me/lawrencemauku/count.svg" /> -->
