@@ -54,22 +54,20 @@
    
   
   ## Tools
-   <li>Kalabash (UAT Testing)</li>
-   <li>Graffana (Application monitoring)</li>
-   <li>Sentry (Application monitoring)</li>
-   
-  
-  ## CI /CD
+   <li>Jest</li>
+   <li>Graffana</li>
+   <li>Sentry</li>
    <li>Codemagic</li>
    <li>Jenkins</li>
   
 
 ### Let's Connect :
+<!--  -->
 
 ### Twitter
 [<img width="40px" src="twitter.png" />](https://www.twitter.com/lawrencemauku)
 
 ### Linkedin
-[<img width="40px" src="linkedin.png" />](https://www.linkedin.com/in/lawrence-mauku-a34a0bb4/)
+[<img width="40px" src="linkedin.png" />](https://www.linkedin.com/in/lawrencemauku)
 
 <!-- <img src="https://profile-counter.glitch.me/lawrencemauku/count.svg" /> -->
