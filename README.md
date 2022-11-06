@@ -29,27 +29,28 @@
 
   ## BackEnd
    <li>ASP.NET C#</li>
-   <li>Python (Flask)</li>
-   <li>Golang</li>
-   <li>Node js</li>
+   <li>Python</li>
+   <li>Node JS</li>
    <li>Dart</li>
-   <li>Kotlin Springboot</li>
-   <li>NGINX</li>
-   <li>Azure Virtual Machines</li>
+   <li>PHP</li>
+   <li>Kafka</li>
+   <li>Nest JS</li>
    
 
   ## Databases
-   <li>Microsoft SQL Server Databases</li>
+   <li>MSSQL</li>
+   <li>MySQL</li>
+   <li>Oracle</li>
+   <li>PostgreSQL</li>
    <li>Firebase</li>
    <li>Mongo DB</li>
-   <li>MySQL</li>
    
    
   ## Services
-   <li>Docker Containers</li>
-   <li>Realtime Communication</li>
-   <li>Two Factor Auth</li>
-   <li>Biometric Auth</li>
+   <li>Docker</li>
+   <li>gRPC</li>
+   <li>LDAP</li>
+   <li></li>
    
   
   ## Tools
