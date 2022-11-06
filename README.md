@@ -1,14 +1,8 @@
 
 <h1 align="center" >LAWRENCE MAUKU</h1></h1>
-
-<h3 align="center">Hi, here is a brief info about me 😊;</h3>
-<hr/>
-
 <div align="center">Occupation: 
-  <h2>Software Developer</h2> 
+  <h2>Software Engineer</h2> 
   
-  #
-  # 
   <!--
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=lawrencemauku&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=lawrencemauku&langs_count=5&theme=tokyonight)]()
@@ -28,6 +22,7 @@
    <li>Next Js</li>
    <li>Flutter</li>
    <li>React Native</li>
+   <li>Laravel</li>
    <li>Kotlin</li>
 </ul>
 
