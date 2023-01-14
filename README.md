@@ -70,4 +70,5 @@
 ### Linkedin
 [<img width="40px" src="linkedin.png" />](https://www.linkedin.com/in/lawrencemauku)
 
+# PROFILE VISITS 👇🏼
 <img src="https://profile-counter.glitch.me/lawrencemauku/count.svg" />
