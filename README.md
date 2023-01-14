@@ -70,4 +70,4 @@
 ### Linkedin
 [<img width="40px" src="linkedin.png" />](https://www.linkedin.com/in/lawrencemauku)
 
-<!-- <img src="https://profile-counter.glitch.me/lawrencemauku/count.svg" /> -->
+<img src="https://profile-counter.glitch.me/lawrencemauku/count.svg" />
